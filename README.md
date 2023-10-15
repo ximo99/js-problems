@@ -2,7 +2,7 @@
 
 ### ENGLISH
 Small and quick JavaScript problems:
-1. Create an Object with a "hello" method that write "Hello <name> in the console.
+1. Create an Object with a "hello" method that write "Hello <name>" in the console.
 2. Write a function that logs the 5 cities that occur the most in the array below in order from the most number of occurrences to least.
 3. Given a number, calculate its Fibonacci series (order of numbers where each number is the result of the sum of the previous two).
 4. Create a program that reverses the order of the string without using its own functions.
