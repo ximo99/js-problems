@@ -1,4 +1,4 @@
-# js-problems
+# Small JavaScript problems
 
 ### ENGLISH
 Small and quick JavaScript problems:
